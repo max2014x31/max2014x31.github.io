@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Cascadia+Mono:ital,wght@0,200..700;1,200..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Oswald:wght@200..700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+img {
+    width: 100%;
+}
+
+.tulen_1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+body {
+    background-color: rgb(184, 222, 255);
+}
+.my-card p{
+      font-family: "Oswald", sans-serif;
+
+}
+.my-card h3{
+      font-family: "Cascadia Mono", sans-serif;
+
+}
+.ele h4{
+      font-family: "JetBrains Mono", monospace;
+
+}
+
+
+.nav-link{
+  font-family: "Exo 2", sans-serif;
+
+}
+
+/* 
+  font-family: "JetBrains Mono", monospace;
+  font-family: "Cascadia Mono", sans-serif;
+  font-family: "Source Code Pro", monospace;
+  font-family: "Exo 2", sans-serif;
+
+
+
+
+
+
+*/
+.tulen_is_back {
+    background-color: rgb(85, 176, 255);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.my-card {
+    padding: 20px;
+    /* border: 1px solid black; */
+    background-color: rgb(187, 218, 244);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.my-word {
+    color: rgb(6, 6, 148);
+    font-weight: 900;
+}
+
+.my-card h3 {
+    text-align: center;
+    padding: 7px;
+    margin-top: 5px;
+    background-color: rgb(16, 16, 72);
+    color: rgb(184, 222, 255);
+}
+
+.pad {
+    margin-bottom: 40px;
+}
+
+.ele {
+    padding-bottom: 40px;
+}
+
+.footer {
+    background-color: rgb(0, 128, 192);
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+
+.footer a {
+    font-size: 2em;
+    color: aliceblue;
+}
+
+
+.seal-title {
+    font-size: 3rem;
+    color: #1a4f76;
+    margin-bottom: 20px;
+    border-left: 6px solid #4a90e2;
+    padding-left: 15px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+}
+.seal-title-2 {
+    font-size: 2rem;
+    color: #1a4f76;
+    margin-bottom: 0px;
+   
+    font-weight: 600;
+    letter-spacing: -0.5px;
+}
+
+.seal-slogan {
+    font-size: 1.3rem;
+    line-height: 1.6;
+    color: #546e7a;
+    font-weight: 500;
+    max-width: 650px;
+}
